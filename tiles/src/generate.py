@@ -31,7 +31,7 @@ def main():
                           each[1] * 4 + each[1]))
 
     tiles = []
-    for value_index, value in enumerate(["I", "Ryan", "San", "Su", "U", "Ryu", "Pa", "Chu"]):
+    for value_index, value in enumerate(["I", "Ryan", "San", "Su", "U", "Ryu", "Chi", "Pa", "Chu"]):
         for suite_index, suite in enumerate(["pin", "sou", "man"]):
             tiles.append(((value_index, suite_index), value + suite))
 

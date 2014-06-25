@@ -20,11 +20,71 @@
             },
             "trimmed": false
         },
+        "Chiman.png": {
+            "frame": {
+                "h": 144,
+                "w": 224,
+                "x": 192,
+                "y": 96
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 48,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "h": 48,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "Chipin.png": {
+            "frame": {
+                "h": 48,
+                "w": 224,
+                "x": 192,
+                "y": 0
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 48,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "h": 48,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        "Chisou.png": {
+            "frame": {
+                "h": 96,
+                "w": 224,
+                "x": 192,
+                "y": 48
+            },
+            "rotated": false,
+            "sourceSize": {
+                "h": 48,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "h": 48,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
         "Chuman.png": {
             "frame": {
                 "h": 144,
-                "w": 256,
-                "x": 224,
+                "w": 288,
+                "x": 256,
                 "y": 96
             },
             "rotated": false,
@@ -63,8 +123,8 @@
         "Chupin.png": {
             "frame": {
                 "h": 48,
-                "w": 256,
-                "x": 224,
+                "w": 288,
+                "x": 256,
                 "y": 0
             },
             "rotated": false,
@@ -83,8 +143,8 @@
         "Chusou.png": {
             "frame": {
                 "h": 96,
-                "w": 256,
-                "x": 224,
+                "w": 288,
+                "x": 256,
                 "y": 48
             },
             "rotated": false,
@@ -223,8 +283,8 @@
         "Paman.png": {
             "frame": {
                 "h": 144,
-                "w": 224,
-                "x": 192,
+                "w": 256,
+                "x": 224,
                 "y": 96
             },
             "rotated": false,
@@ -243,8 +303,8 @@
         "Papin.png": {
             "frame": {
                 "h": 48,
-                "w": 224,
-                "x": 192,
+                "w": 256,
+                "x": 224,
                 "y": 0
             },
             "rotated": false,
@@ -263,8 +323,8 @@
         "Pasou.png": {
             "frame": {
                 "h": 96,
-                "w": 224,
-                "x": 192,
+                "w": 256,
+                "x": 224,
                 "y": 48
             },
             "rotated": false,
