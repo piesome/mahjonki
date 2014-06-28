@@ -62,7 +62,7 @@ def main():
         new.paste(gfx, (0,0), gfx)
         new.paste(foreground, (0,0), foreground)
         pack["frames"][tile[1]+".png"] = {
-            "frame": pos,
+            "frame": {"x": pos["x"], "y": pos["y"], "w": each[0], "h": each[1]},
             "rotated": False,
             "trimmed": False,
             "spriteSourceSize": {"x": 0, "y": 0, "w": each[0], "h": each[1]},
